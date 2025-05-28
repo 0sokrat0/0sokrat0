@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Junior Golang Backend Developer
+## 🚀 Golang Backend Developer
 
 I'm a backend developer from Russia with **1.5 years of experience** writing Go code.
 I build **microservices** using `gRPC`, `PostgreSQL`, `Redis`, `Kafka`, and `Docker`.
